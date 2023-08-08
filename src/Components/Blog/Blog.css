@@ -1,0 +1,19 @@
+.blogs{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.blog-info-container{
+    width: 90%;
+    height: auto;
+    background-color: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    padding: 20px;
+    margin-left: 10px;
+}
+@media screen and (max-width: 768px) {
+    .blogs{
+        display: block;
+    }
+}  

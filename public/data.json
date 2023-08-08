@@ -1,0 +1,38 @@
+[
+    {
+        "id":"blog_01",
+        "title":"Concept of programming fundamental",
+        "coverImage":"CoverImage/cover-1.jpg",
+        "author":"Arena",
+        "authorImage":"AuthorImage/author-1.jpg",
+        "readTime":10,
+        "writeDate":"Mar 14"
+    },
+    {
+        "id":"blog_02",
+        "title":"Basic consepts of c programming",
+        "coverImage":"CoverImage/cover-2.jpg",
+        "author":"Apurbo",
+        "authorImage":"AuthorImage/author-2.jpg",
+        "readTime":12,
+        "writeDate":"Apr 17"
+    },
+    {
+        "id":"blog_03",
+        "title":"How works v8 engine in browser",
+        "coverImage":"CoverImage/cover-3.jpg",
+        "author":"Jhon paul",
+        "authorImage":"AuthorImage/author-3.jpg",
+        "readTime":17,
+        "writeDate":"Dec 21"
+    },
+    {
+        "id":"blog_04",
+        "title":"How to improve your programming knowledge",
+        "coverImage":"CoverImage/cover-4.jpg",
+        "author":"Reddy khaja",
+        "authorImage":"AuthorImage/author-4.jpg",
+        "readTime":14,
+        "writeDate":"Dec 27"
+    }
+]

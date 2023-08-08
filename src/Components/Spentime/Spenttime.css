@@ -1,0 +1,13 @@
+.time-container{
+    width: 90%;
+    padding: 10px;
+    height: 70px;
+    background-color: #fff;
+    border:1px solid Blue;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.time-container h3{
+    color: blue;
+    font-weight: bold;
+}
